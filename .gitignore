@@ -1,0 +1,20 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Data (do NOT upload MultiWOZ or exports)
+data/
+*.jsonl
+*.parquet
+*.csv
+*.pkl
+
+# Results (optional)
+results/
+
+# OS/IDE
+.vscode/
+.DS_Store
+Thumbs.db
